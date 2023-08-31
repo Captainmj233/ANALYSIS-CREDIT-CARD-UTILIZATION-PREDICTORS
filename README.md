@@ -1,1 +1,3 @@
 # ANALYSIS-CREDIT-CARD-UTILIZATION-PREDICTORS
+
+This analysis aims to investigate the relationship between customer age, credit limit, revolving balance, and credit card utilization. The goal is to understand how these variables collectively influence credit card usage patterns among customers. To achieve this, a multiple linear regression model was used to estimate the effect of customer age, credit limit, and revolving balance on the average utilization ratio of credit cards. This approach offers a more comprehensive analysis compared to a simple linear regression, as it considers multiple influencing factors simultaneously, which should provide a better fit for the dataset. Initially
